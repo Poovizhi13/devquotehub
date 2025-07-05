@@ -17,3 +17,6 @@ A motivational quote generator for developers. Built collaboratively using GitHu
 ## How to Run
 1. Clone the repo:
 2. Open `index.html` in your browser
+
+## 🔗 Live Demo
+[Click here to view DevQuoteHub](https://Poovizhi13.github.io/devquotehub/)
